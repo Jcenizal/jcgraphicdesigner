@@ -1,1 +1,1 @@
-# jcgraphicdesigner.dpdns.org
+# jcgraphicdesigner
